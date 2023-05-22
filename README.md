@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/qMcbTtakNy2D60fdtk/giphy.gif" width="800px" height="300px" align="center">
+<img src="https://media4.giphy.com/media/qMcbTtakNy2D60fdtk/giphy.gif" width="1000px" height="300px" align="auto">
 
 # console.log('Hola!! Me llamo Orlando 👋')
 
